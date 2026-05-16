@@ -1,4 +1,4 @@
 {
-  "new_version": "1.0.0-beta1",
-  "changelog": "📢 v1.0.0-beta1: First beta release."
+  "new_version": "1.0.0-beta2",
+  "changelog": "📢 1.0.0-beta2: Fixed some issues from our first app release\n\n[🟢=New Feature, 🟠=Feature Update, 🟣=Fix]\n\nHere are some improvements from the last version of Deskplay:\n\n🟣 Fix: Fixed touch mapper WASD and arrows for some games.\n🟣 Fix: Fixed segmentation fault on app exit.\n🟣 Fix: Fixed broken gameplay for some Android devices like Samsung.\n🟣 Fix: Fixed update checker.\n\nI hope you enjoy Deskplay. Keep gaming."
 }
