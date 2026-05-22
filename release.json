@@ -1,4 +1,4 @@
 {
-  "new_version": "1.0.0-beta3",
-  "changelog": "📢 1.0.0-beta3: Fixed a major crash issue with graphics acceleration/GPU\n\n[🟢=New Feature, 🟠=Feature Update, 🟣=Fix]\n\nHere are some improvements from the last version of Deskplay:\n\n🟣 Fix: Fixed OpenGL context crash issue when gameplay is overlaid by touch mapper and settings using shortcuts in fullscreen mode. (Mainly seen on Windows. Rolling out the fix for all OS).\n\nI hope you enjoy Deskplay. Keep gaming."
+  "new_version": "1.0.0-beta4",
+  "changelog": "📢 1.0.0-beta4: Made some UI adjustments and fixed a few minor issues.\n\n[🟢=New Feature, 🟠=Feature Update, 🟣=Fix]\n\nHere are some improvements from the last version of Deskplay:\n\n🟢 Added: Added audio hardware information to system information.\n🟢 Added: Added the settings option to enable/disable mouse hover events.\n🟠 Update: Updated the fullscreen transition to make it smoother.\n🟠 Update: Updated the settings UI to make it more intuitive.\n🟣 Fix: Fixed the Linux installer for some distros. It now includes the libxcb.\n🟣 Fix: Fixed some minor issues from game frontend UI.\n🟣 Fix: Fixed text break line from update checker dialog.\n\nI hope you enjoy Deskplay. Keep gaming."
 }
