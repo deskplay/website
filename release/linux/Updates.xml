@@ -6,14 +6,14 @@
   <Name>app.deskplay</Name>
   <DisplayName>Deskplay application</DisplayName>
   <Description>Deskplay application</Description>
-  <Version>1.0.0-beta4</Version>
-  <ReleaseDate>2026-05-22</ReleaseDate>
+  <Version>1.0.0-beta5</Version>
+  <ReleaseDate>2026-05-27</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="91905340" OS="Any" UncompressedSize="371063676"/>
+  <UpdateFile CompressedSize="91914832" OS="Any" UncompressedSize="371076004"/>
   <DownloadableArchives>core.7z,doc.7z,lib.7z,plugins.7z,qml.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>69959e488daf59c8e44cb75205231aec9f16d47a</SHA1>
+  <SHA1>a04463ddeb959f690bba14e9923d1fbc96ae36ee</SHA1>
  </PackageUpdate>
- <SHA1>f0f421178eb6855d1e83ea0b2deabc019f899dca</SHA1>
- <MetadataName>2026-05-22-1521_meta.7z</MetadataName>
+ <SHA1>237f615018eb95f7c7889d73bd9d4887dc9e8782</SHA1>
+ <MetadataName>2026-05-27-0855_meta.7z</MetadataName>
 </Updates>
