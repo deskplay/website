@@ -1,4 +1,4 @@
 {
-  "new_version": "1.0.0-beta5",
-  "changelog": "📢 1.0.0-beta5: Added new features.\n\n[🟢=New Feature, 🟠=Feature Update, 🟣=Fix]\n\nHere are some improvements from the last version of Deskplay:\n\n🟢 Added: Added anti-aliasing settings option.\n🟢 Added: Added window and monitor resolution to gameplay virtual display options. Default: the window option resizes the gameplay virtual in real time. Previous default option: monitor resolution.\n\nI hope you enjoy Deskplay. Keep gaming."
+  "new_version": "1.0.0-desktop",
+  "changelog": "📢 1.0.0-desktop: Update UI and shortcut, fixed minor issues.\n\n[🟢=New Feature, 🟠=Feature Update, 🟣=Fix]\n\nHere are some improvements from the last version of Deskplay:\n\n🟠 Update: Made UI adjustments. Game cover with rounded corners, elevation/shadow effect, 1-pixel outline for black covers against a black background.\n🟠 Update: Updated Alt+W shortcut behaviour for custom launcher mode. Now the shorcut brings the custom launcher app to the foreground. This is useful for exiting games in emulators.\n🟣 Fix: Fixed some minor issues.\n\nI hope you enjoy Deskplay. Keep gaming."
 }
